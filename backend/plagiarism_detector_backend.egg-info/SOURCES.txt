@@ -1,0 +1,17 @@
+setup.py
+./algorithms/__init__.py
+./algorithms/kmp.py
+./algorithms/naive.py
+./algorithms/rabin_karp.py
+./services/__init__.py
+./services/analyzer.py
+./services/highlight.py
+./services/preprocessing.py
+./services/scoring.py
+./utils/__init__.py
+./utils/file_reader.py
+plagiarism_detector_backend.egg-info/PKG-INFO
+plagiarism_detector_backend.egg-info/SOURCES.txt
+plagiarism_detector_backend.egg-info/dependency_links.txt
+plagiarism_detector_backend.egg-info/requires.txt
+plagiarism_detector_backend.egg-info/top_level.txt

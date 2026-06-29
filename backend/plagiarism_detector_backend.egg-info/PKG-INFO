@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: plagiarism-detector-backend
+Version: 0.1.0
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: python-multipart
+Requires-Dist: scikit-learn
+Requires-Dist: numpy
+Requires-Dist: python-docx
+Requires-Dist: PyPDF2
+Dynamic: requires-dist
